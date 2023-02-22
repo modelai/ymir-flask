@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Ymir</title>
+</head>
+<body>
+ <center><h3>prediction result</h3><img src="{{ user_image }}" alt="Mike" height="{{height}}px" width="{{width}}px"></center>
+ <center>{{ result }}</center>
+</body>
+</html>
