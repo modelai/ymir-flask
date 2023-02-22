@@ -1,6 +1,6 @@
 # ymir-flask
 
-use chatgpt and flask to deploy ymir model
+基于 chatgpt 产生的代码， 部署ymir模型到云端
 
 # 测试
 
